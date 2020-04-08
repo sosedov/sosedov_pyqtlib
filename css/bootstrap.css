@@ -1,0 +1,95 @@
+QPushButton[styleclass='btn_primary']{
+	background-color: rgb(0,123,255);
+	padding:5px;
+	color:white;
+	font-size:15px;
+	border-radius:7px;
+}
+
+QPushButton[styleclass='btn_primary']:hover{
+	border:2px solid rgb(146,199,255);
+}
+
+QPushButton[styleclass='btn_secondary']{
+	background-color:rgb(90,98,104);
+	padding:5px;
+	color:white;
+	font-size:15px;
+	border-radius:7px;
+}
+
+QPushButton[styleclass='btn_secondary']:hover{
+	border:2px solid rgb(192,196,200);
+}
+
+QPushButton[styleclass='btn_success']{
+	background-color:rgb(40,167,69);
+	padding:5px;
+	color:white;
+	font-size:15px;
+	border-radius:7px;
+}
+
+QPushButton[styleclass='btn_success']:hover{
+	border:2px solid rgb(163,217,176);
+}
+
+QPushButton[styleclass='btn_danger']{
+	background-color:rgb(220,53,69);
+	padding:5px;
+	color:white;
+	font-size:15px;
+	border-radius:7px;
+}
+
+QPushButton[styleclass='btn_danger']:hover{
+	border:2px solid rgb(240,169,176);
+}
+
+QPushButton[styleclass='btn_warning']{
+	background-color:rgb(255,193,7);
+	padding:5px;
+	color:black;
+	font-size:15px;
+	border-radius:7px;
+}
+
+QPushButton[styleclass='btn_warning']:hover{
+	border:2px solid rgb(238,212,133);
+}
+
+QPushButton[styleclass='btn_info']{
+	background-color: rgb(23,162,184);
+	padding:5px;
+	color:white;
+	font-size:15px;
+	border-radius:7px;
+}
+
+QPushButton[styleclass='btn_info']:hover{
+	border:2px solid rgb(156,215,225);
+}
+
+QPushButton[styleclass='btn_light']{
+	background-color:rgb(248,249,250);
+	padding:5px;
+	color:black;
+	font-size:15px;
+	border-radius:7px;
+}
+
+QPushButton[styleclass='btn_light']:hover{
+	border:2px solid rgb(235,236,237);
+}
+
+QPushButton[styleclass='btn_dark']{
+	background-color:rgb(52,58,64);
+	padding:5px;
+	color:white;
+	font-size:15px;
+	border-radius:7px;
+}
+
+QPushButton[styleclass='btn_dark']:hover{
+	border:2px solid rgb(168,171,174);
+}
