@@ -1,0 +1,62 @@
+13.01.2020 12:25 Cron started.
+13.01.2020 12:26  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6
+13.01.2020 12:27  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6
+13.01.2020 12:28 Cron started.
+13.01.2020 12:29  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:30  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:31  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:32  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:33  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:34  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:35  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:36  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:37  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:38  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:39  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:40  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:41  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:42  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:43  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:44  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:45  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
+13.01.2020 12:46  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
+0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
+0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
