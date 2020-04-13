@@ -1,3 +1,0 @@
-* * * * *  c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 9;
-0 15 * * 5 c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 1;
-0 11 1-15 1 * c:/xampp/php/php.exe c:/xampp/htdocs/fxcrm/fxcrm/controllers/processor_cron.php 6;
